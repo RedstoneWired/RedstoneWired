@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RedstoneWired!
+- 🌱 I’m currently learning HTML, and CSS!
+- 📫 You can contact me on Discord, my username is Redstone#2107.
